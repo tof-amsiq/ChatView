@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ChatView_Example' do
+  pod 'ChatView', :path => '../'
+
+  target 'ChatView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
