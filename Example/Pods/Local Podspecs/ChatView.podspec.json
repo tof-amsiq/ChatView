@@ -1,0 +1,22 @@
+{
+  "name": "ChatView",
+  "version": "0.1.0",
+  "summary": "A short description of ChatView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tobiasf670/ChatView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tobiasf670": "tof@amsiq.com"
+  },
+  "source": {
+    "git": "https://github.com/tobiasf670/ChatView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChatView/Classes/**/*"
+}

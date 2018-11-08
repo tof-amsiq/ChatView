@@ -1,0 +1,16 @@
+PODS:
+  - ChatView (0.1.0)
+
+DEPENDENCIES:
+  - ChatView (from `../`)
+
+EXTERNAL SOURCES:
+  ChatView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChatView: 1ea9263baa29e228970597026403887d9d7d2620
+
+PODFILE CHECKSUM: 4785266f4118fa8cb7f516c00343c1251142fd98
+
+COCOAPODS: 1.6.0.beta.2
